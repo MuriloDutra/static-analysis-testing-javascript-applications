@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "noEmit": true, //Typescript won't compile my code because Babel is already doing that
+    "baseUrl": "./src"
+  }
+}
